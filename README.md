@@ -22,7 +22,7 @@ This repository contains ROS 2 packages designed for controlling the **Fairino3_
 - ROS2 **Humble**
 - MoveIt 2
 - Rviz 2
-- ros2_controllers
+- ros2_controllers (Check [here](https://fair-documentation.readthedocs.io/en/latest/ROSGuide/ros2guide.html#basic-environment-installation))
 
 ---
 
